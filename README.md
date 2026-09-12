@@ -4,7 +4,7 @@ const crypto = require('crypto');
 
 // ========================================================
 // EDIT THIS VARIABLE TO GENERATE A NEW PUBLIC COMMIT
-const BUILD_COUNT_TRIGGER = 9;
+const BUILD_COUNT_TRIGGER = 10;
 // ========================================================
 
 class BaseGasTracker {
